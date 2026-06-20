@@ -1,0 +1,70 @@
+﻿Type,Subtype_1,Subtype_2,Definition,Sample
+Amputate,-,-,Complete removal of at least a portion of a body part,Present
+Amputate,Body,Breast,Removing at least one breast,Absent
+Amputate,Body,Finger,Removing at least one finger segment,Present
+Amputate,Body,Toe,Removing at least one toe segment,Absent
+Amputate,Head,Ear,Removing at least one ear,Present
+Amputate,Head,Uvula,Removing the uvula,Present
+Dental,-,-,Modifying the teeth,Present
+Dental,Ablation,-,Removing at least one tooth,Present
+Dental,Carve,Re-Shape,Other forms of re-shaping at least one tooth,Present
+Dental,Carve,Sharpen,Sharpening at least one tooth,Present
+Dental,Carve,Shorten,Shortening at least one tooth,Present
+Dental,Incise,-,Carving into  the enamel of the teeth,Absent
+Dental,Inlay,-,Inserting a foreign object into at least one tooth,Present
+Genital,-,-,"Modifying the male (penis, testicles) and female (vulva) genitals",Present
+Genital,Penis,Circumcision,Removing the foreskin,Present
+Genital,Penis,Incision,Cutting into the shaft of the penis that does not slit the foreskin in any way,Present
+Genital,Penis,Insertion,Inserting a foreign object under the skin of the penis,Present
+Genital,Penis,Penectomy,Removing the penis,Absent
+Genital,Penis,Pierce,Creating a puncture in the penis,Absent
+Genital,Penis,Subincision,Creating a slit in the foreskin & urethra,Present
+Genital,Penis,Superincision,Creating a slit in the foreskin,Present
+Genital,Penis,Tattoo,Tattooing the penis,Present
+Genital,Testicles,Bilateral Castration,Removing both testicles,Absent
+Genital,Testicles,Pierce,Creating a puncture in the scrotum/testicles,Absent
+Genital,Testicles,Tattoo,Tattooing the penis,Present
+Genital,Testicles,Unilateral Castration,Removing one testicle,Absent
+Genital,Vulva,Clitoral Excision,Removing the entire clitoris,Present
+Genital,Vulva,Clitoridectomy,Removing a portion of the clitoris,Present
+Genital,Vulva,Incision,Creating an incision on the vulva,Present
+Genital,Vulva,Infibulation,"Removing a portion or all of the clitoris and labia, and sealing of the vaginal opening",Present
+Genital,Vulva,Introcision,Enlarging of the vaginal opening through cutting,Present
+Genital,Vulva,Labial Excision,Removing a portion or all of the labia,Present
+Genital,Vulva,Pierce,Creating a puncture on the vulva,Absent
+Genital,Vulva,Stretch,Stretching the labia,Present
+Genital,Vulva,Tattoo,Tattooing the vulva,Present
+Pierce,-,-,"Creating a puncture in the skin and/or flesh, often to hold an ornament and/or to enlarge the hole",Present
+Pierce,Cheek,Enlarge,Creating a puncture in the cheek and stretching the hole,Present
+Pierce,Cheek,Simple,Creating a puncture in the cheek and not stretching the hole,Absent
+Pierce,Ear Cartilage,Enlarge,Creating a puncture in the ear cartilage and enlarging the hole,Present
+Pierce,Ear Cartilage,Simple,Creating a puncture in the ear cartilage and not enlarging the hole,Present
+Pierce,Earlobe,Enlarge,Creating a puncture in the earlobe and enlarge the hole,Present
+Pierce,Earlobe,Rip,"Creating a puncture in the earlobe, enlarging the hole, ripping the enlarged earlobe in two",Absent
+Pierce,Earlobe,Simple,Creating a puncture in the earlobe and not enlarging the hole,Present
+Pierce,Lip,Labret,Creating a puncture in the lip and stretching the hole (includes labret use),Present
+Pierce,Lip,Simple,Creating a puncture in the lip and not stretching the hole,Present
+Pierce,Navel,-,Creating a puncture in the navel and not stretching the hole,Absent
+Pierce,Nipple,-,Creating a puncture in one or both nipple(s) and not stretching the hole,Absent
+Pierce,Nose,Nostril Enlarge,Creating a puncture in the nostril and enlarging the hole,Present
+Pierce,Nose,Nostril Simple,Creating a puncture in the nostril,Present
+Pierce,Nose,Septum,Creating a puncture in the septum,Present
+Pierce,Nose,Tip,Creating a puncture in the front tip of the nose,Absent
+Pierce,Tongue,-,Creating a puncture in the tongue,Present
+Scar,-,-,"Modifying the the skin to create scars, either through incising or burning ",Present
+Scar,Burn,-,Burning the skin,Present
+Scar,Cut,Remove,Removing a portion of skin,Present
+Scar,Cut,Slice,Slicing into the skin,Present
+Scar,Perforate,-,Puncturing into the skin (includes pulling a sharp or thorny cord through the wound),Present
+Shape,-,-,Modifying the shape of bones,Present
+Shape,Body,Clavicles,"Modifying the shape of the clavicles (i.e., neck stretching)",Absent
+Shape,Body,Feet,"Modifying the shape of the feet (i.e., feet-binding)",Absent
+Shape,Body,Ribs,"Modifying the shape of the ribs (i.e., corsetry/tight-lacing)",Absent
+Shape,Body,Toes,Modifying the shape of at least one toe without modifying the rest of the foot,Present
+Shape,Body,Wrist,"Modifying the shape of the wrist (i.e., breaking)",Absent
+Shape,Head,Cranial,Modifying the shape of the cranial vault through maintained pressure,Present
+Tattoo,-,-,Inserting pigment into the skin to create coloured marks,Present
+Tattoo,Chisel,-,Cutting pigment into the skin,Present
+Tattoo,Puncture,-,Puncturing pigment into the skin,Present
+Tattoo,Stain,-,Removing a portion of skin and rubbing pigment in,Absent
+Tattoo,String,-,Dipping string into pigment and then sewing the string through the skin,Present
